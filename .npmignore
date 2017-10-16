@@ -1,0 +1,6 @@
+src
+yarn.lock
+
+!es
+!lib
+!typings
